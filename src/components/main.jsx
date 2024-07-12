@@ -138,7 +138,7 @@ const Main = () => {
             </h3>
             <p className="text-white">
               <span className="font-semibold text-xl">Semester 1</span> was full of fun, love, joy, memorable moments, fights,
-              compromises,exa,s,chao tension,  support, and much more.
+              compromises,exams,chao tension,  support, and much more.
             </p>
           </div>
 
