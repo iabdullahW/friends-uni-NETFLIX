@@ -138,7 +138,7 @@ const Main = () => {
             </h3>
             <p className="text-white">
               <span className="font-semibold text-xl">Semester 1</span> was full of fun, love, joy, memorable moments, fights,
-              compromises,exams,chao tension,  support, and much more.
+              compromises,exams,chaos, tension,  support, and much more.
             </p>
           </div>
 
@@ -177,7 +177,7 @@ const Main = () => {
               <p className="text-[#A1A1A1]">
                 In episode 3 we had fun and drama ,vibing,going out for food
                 ,chaos,solving issues between members, outing after last paper,rain,
-                edits,love the ending.
+                edits,loved the ending &lt;3  .
               </p>
             </div>
           </div>
